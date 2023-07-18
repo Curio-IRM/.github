@@ -1,5 +1,20 @@
 ![KPFellows](https://viterbicareers.usc.edu/wp-content/uploads/2018/09/kleiner-perkins-fellows-2018.png)
 
+<html>
+  <h3 align="center">
+  <a href="https://fellows.kleinerperkins.com/">Website</a>
+  <span> · </span>
+  <a href="https://fellows.kleinerperkins.com/">Documentation</a>
+  <span> · </span>
+  <a href="https://fellows.kleinerperkins.com/">Substack</a>
+  </h3>
+</html>
+
+<html>
+  <h3 align="center">KP Fellows</a>
+  </h3>
+</html>
+
 # Kleiner Perkins Fellows Program
 
 Welcome to the repository for the Kleiner Perkins Fellows Program! This program is designed to provide undergraduate and graduate students with valuable opportunities in the fields of engineering, design, and product management. Please find below some important information about the program:
