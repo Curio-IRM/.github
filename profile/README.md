@@ -41,7 +41,7 @@ These features empower everyone, whether you're a data scientist or a sales rep,
 
 <div align="center">
 
-![Curio Vision](url-to-image-showcasing-Curio-vision)
+![Curio Vision](https://github.com/Curio-IRM/.github/blob/main/profile/mockup.png)
 
 </div>
 
