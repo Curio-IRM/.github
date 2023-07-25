@@ -131,7 +131,7 @@ We're at the beginning of an exciting journey. Our future plans include integrat
 Curio is brought to life by a dedicated team of engineers and designers: Will Blair, Sneha Sivakumar, Jacky Huang and Raul Faife. Our combined expertise and passion have made this innovative solution possible.
 
 <p align="center">
-  <img src="https://github.com/Curio-IRM/.github/blob/main/profile/team.png" alt="Curio Team" width="200">
+  <img src="https://github.com/Curio-IRM/.github/blob/main/profile/team.png" alt="Curio Team" width="300">
 </p>
 
 <a name="acknowledgements"></a>
