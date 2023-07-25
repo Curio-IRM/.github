@@ -10,50 +10,28 @@
   </h3>
 </html>
 
-# Kleiner Perkins Fellows Program
+# Curio
+Curio is an intelligent relationship manager developed for the Kleiner Perkins hackathon. Our tool is a no-code relationship data analysis solution designed specifically for enterprises. With the collective expertise of our team members from Figma, Neuron23, and Microsoft, we have managed to create a tool that simplifies your relationship data management.
 
-Welcome to the repository for the Kleiner Perkins Fellows Program! This program is designed to provide undergraduate and graduate students with valuable opportunities in the fields of engineering, design, and product management. Please find below some important information about the program:
+## Overview
+Often enterprises have large volumes of data but lack the tools to gain valuable insights. This is where Curio comes into the picture. Curio is not just another CRM. Our product eliminates the need for manual data entry, extraction, analysis, and updating. It also allows you to explore your data through SQL, queries, and no-code functionalities.
 
-## About
+### Curio Features
+Curio is designed to offer three primary functions:
 
-The Kleiner Perkins Fellows Program offers exciting opportunities for students to gain experience and mentorship in various disciplines. Whether you're studying computer science, engineering, mathematics, physics, or fields related to software development, design, or business, there's a fellowship track for you.
+1. **Curio Table:** A high-level data analysis tool. Upload your data source, and Curio will instantly create a comprehensive data view for you. Additionally, augment your tables with simple data queries, and Curio will auto-populate the data fields.
 
-## Who Can Apply?
+2. **Curio Chat:** A chat function that allows you to delve deeper into your data in an easy question-and-answer format. Curio chat also suggests actions like drafting emails, setting up calendar invites, sending LinkedIn invites, etc., as you interact with it. 
 
-- **Engineering Fellows**: Open to undergraduate and graduate students enrolled at U.S. universities studying computer science, engineering, mathematics, physics, or related fields.
-- **Design Fellows**: Open to students at U.S. universities from any academic discipline, with a focus on Visual, Interaction, or Web User Interface Design.
-- **Product Fellows**: Open to outstanding undergraduate or graduate students graduating from a U.S. university with a degree related to engineering, design, or business, including graduate students in M.B.A. programs.
+3. **Curio Widgets:** Extracted key details are stored in widgets, providing easy access and customized tasks. It reduces the overhead of navigating through large volumes of data.
 
-## Application Dates
+The combination of these features serves every user, enabling anyone, irrespective of their technical expertise, to generate insight from data.
 
-Applications for the program open on Friday, November 18th, 2022, and close on Monday, January 9th, 2023, at 11:59 pm.
+### Future Vision
+Our future vision for Curio is to be the first intelligent manager for enterprises, venture capital companies, employers, and universities. Our goal is to manage their relationships with employees, students, fellows, etc., intelligently using AI, large language models, and vector databases.
 
-## Interview and Selection Process
+### Acknowledgments
+We want to extend our gratitude towards everyone who organized the hackathon. A special mention to our hardworking team for turning this vision into reality.
 
-After the review of all submitted applications by our technical, design, and product committee, a small number of students will be selected as semi-finalists. Semi-final interviews will be conducted virtually, and finalists will be chosen from there. Kleiner Perkins company partners will reach out to finalists and schedule interviews. If an offer is made, compensation and start/end dates will be negotiated directly between the student and the company. Accepted students will become Kleiner Perkins Fellows and will be invited to participate in all program activities.
-
-## Company Selection and Nomination
-
-Finalist candidates will have the opportunity to nominate the companies they would like their applications sent to. From that point on, the companies will reach out to schedule final interviews, allowing candidates to have a say in the selection process.
-
-## Program Details
-
-- **Compensation**: The Fellows Program offers competitive compensation, and the terms will be negotiated directly between the student and the employing portfolio company.
-- **Program Duration**: The start and end dates of the program will be negotiated between the student and the startup. However, program-wide summer events will be held between mid-June to early August to accommodate the schedules of students from various universities.
-- **Networking Opportunities**: While Fellows will be primarily working at one startup during the summer, the program is designed to provide ample opportunities to interact with people from other startups, as well as attend events hosted by Kleiner Perkins and startups within their portfolio.
-
-## Multiple Program Applications
-
-Applicants have the option to apply for more than one type of program. However, it is important to meet the eligibility guidelines for each program. Please note that applicants can only be accepted into one program.
-
-## Contact
-
-If you have any further questions or need more information about the Kleiner Perkins Fellows Program, please reach out to sbiglieri@kpcb.com.
-
-## Terms and Privacy Policy
-
-To learn more about the terms and privacy policy associated with the Kleiner Perkins Fellows Program, please refer to the respective documents on their website.
-
----
-© 2023 Kleiner Perkins Fellows
+Thank you!
 
