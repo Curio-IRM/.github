@@ -128,7 +128,7 @@ We're at the beginning of an exciting journey. Our future plans include integrat
   <span style="color: #5E97F6;">👥</span>
 </h2>
 
-Curio is brought to life by a dedicated team of engineers and designers from Kleiner Perkins. Our combined expertise and passion have made this innovative solution possible.
+Curio is brought to life by a dedicated team of engineers and designers: Will Blair, Sneha Sivakumar, Jacky Huang and Raul Faife. Our combined expertise and passion have made this innovative solution possible.
 
 <a name="acknowledgements"></a>
 <h2 align="center">
