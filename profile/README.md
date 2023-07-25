@@ -4,14 +4,19 @@
 
 <div align="center">
   
-# **Curio**
+# 🚀 **Curio** 🚀
 
-🌐 [**Website**](https://kp-fellows-documents.vercel.app/) • 🎥 [**Presentation**](https://www.loom.com/share/7b8b3d11cb074de28de8418348f4c0ac) • 🕹️ [**Demo**](https://www.loom.com/share/143ed397944945c38f69a1a741475d41?sid=a27b6242-2793-45e4-9b8a-a6422e8bbc8a)
+</div>
+
+<div align="center">
+
+[🌐 **Website**](https://kp-fellows-documents.vercel.app/) • [🎥 **Presentation**](https://www.loom.com/share/7b8b3d11cb074de28de8418348f4c0ac) • [🕹️ **Demo**](https://www.loom.com/share/143ed397944945c38f69a1a741475d41?sid=a27b6242-2793-45e4-9b8a-a6422e8bbc8a)
 
 </div>
 
 ---
-## **Welcome to the Future of Relationship Management**
+
+## 🎯 **Welcome to the Future of Relationship Management** 🎯
 ---
 **Curio**, your intelligent relationship manager, is a revolutionary no-code data analysis solution tailor-made for enterprises. Birthed from the Kleiner Perkins hackathon and leveraging the collective expertise of our passionate team from Figma, Neuron23, and Microsoft, Curio redefines your relationship data management.
 
@@ -21,7 +26,7 @@
 
 </div>
 
-## **Unleash the Power of Your Data with Curio**
+## 💡 **Unleash the Power of Your Data with Curio** 💡
 ---
 Often enterprises are data-rich but insight-poor. Step into a world where your data illuminates the path to success. Curio goes beyond being a mere CRM. It's an all-seeing oracle that makes sense of your data without the need for manual data entry, extraction, or analysis. Explore the depth and breadth of your data through SQL, intuitive queries, and no-code functionalities.
 
@@ -31,7 +36,7 @@ Often enterprises are data-rich but insight-poor. Step into a world where your d
 
 </div>
 
-### **What Makes Curio Your Preferred Companion?**
+### 🛠️ **What Makes Curio Your Preferred Companion?** 🛠️
 ---
 Curio's toolbox includes:
 
@@ -47,12 +52,16 @@ These features empower everyone, whether you're a data scientist or a sales rep,
 
 </div>
 
-### **The Tomorrow We're Building Today**
+### 🚀 **The Tomorrow We're Building Today** 🚀
 ---
 We envision Curio to be the first port-of-call intelligent manager for enterprises, venture capital companies, employers, and universities. Our mission is to intelligently manage relationships with employees, students, fellows, and more, utilizing state-of-the-art technologies such as AI, large language models, and vector databases.
 
-### **Standing on the Shoulders of Giants**
+### 💞 **Standing on the Shoulders of Giants** 💞
 ---
 Our journey wouldn't be possible without the dedicated individuals who organized the hackathon and our tenacious team that turned this vision into reality. A massive thank you!
 
+<div align="center">
+
 🎉 Embrace the future. Embrace Curio! 🎉
+
+</div>
