@@ -1,4 +1,4 @@
-![KPFellows](https://viterbicareers.usc.edu/wp-content/uploads/2018/09/kleiner-perkins-fellows-2018.png)
+[![Curio](https://github.com/Curio-IRM/.github/blob/main/profile/curio.png)]
 
 <html>
   <h3 align="center">
