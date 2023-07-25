@@ -114,7 +114,7 @@ We're at the beginning of an exciting journey. Our future plans include integrat
 <a name="team"></a>
 <h2 align="center">
   <span style="color: #5E97F6;">👥</span>
-  Team Curio: The Visionaries Behind the Revolution
+  Team Curio: Behind the IRM Revolution
   <span style="color: #5E97F6;">👥</span>
 </h2>
 
