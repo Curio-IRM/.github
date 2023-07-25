@@ -39,6 +39,12 @@ Curio's toolbox includes:
 
 These features empower everyone, whether you're a data scientist or a sales rep, to generate valuable insights from your data.
 
+<div align="center">
+
+![Curio Vision](url-to-image-showcasing-Curio-vision)
+
+</div>
+
 ### **The Tomorrow We're Building Today**
 ---
 We envision Curio to be the first port-of-call intelligent manager for enterprises, venture capital companies, employers, and universities. Our mission is to intelligently manage relationships with employees, students, fellows, and more, utilizing state-of-the-art technologies such as AI, large language models, and vector databases.
