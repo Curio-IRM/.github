@@ -107,7 +107,7 @@ We're just at the beginning of our journey. Our future plans include integrating
   <span style="color: #5E97F6;">👥</span>
 </h2>
 
-Curio is brought to you by a dedicated team of data enthusiasts from Figma, Neuron23, and Microsoft. Our combined expertise and passion have made this innovative solution possible.
+Curio is brought to you by our dedicated team: Sneha, Will, Raul and Jacky. Our combined expertise and passion have made this innovative solution possible.
 
 <a name="appreciation"></a>
 <h2 align="center">
