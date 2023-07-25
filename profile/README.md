@@ -1,4 +1,7 @@
-<img src="https://github.com/Curio-IRM/.github/blob/main/profile/curio.png" alt="Curio" width="200">
+<p align="center">
+  <img src="https://github.com/Curio-IRM/.github/blob/main/profile/curio.png" alt="Curio" width="200">
+</p>
+
 
 <html>
   <h3 align="center">
