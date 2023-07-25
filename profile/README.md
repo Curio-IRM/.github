@@ -18,21 +18,9 @@
 ---
 **Curio**, your intelligent relationship manager, is a revolutionary no-code data analysis solution tailor-made for enterprises. Birthed from the Kleiner Perkins hackathon and leveraging the collective expertise of our passionate team from Figma, Neuron23, and Microsoft, Curio redefines your relationship data management.
 
-<div align="center">
-
-![Curio Overview](url-to-image-showcasing-Curio-in-action)
-
-</div>
-
 ## 💡 **Unleash the Power of Your Data with Curio** 💡
 ---
 Often enterprises are data-rich but insight-poor. Step into a world where your data illuminates the path to success. Curio goes beyond being a mere CRM. It's an all-seeing oracle that makes sense of your data without the need for manual data entry, extraction, or analysis. Explore the depth and breadth of your data through SQL, intuitive queries, and no-code functionalities.
-
-<div align="center">
-
-![Curio Features](url-to-image-showcasing-Curio-features)
-
-</div>
 
 ### 🛠️ **What Makes Curio Your Preferred Companion?** 🛠️
 ---
