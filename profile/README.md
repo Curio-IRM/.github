@@ -137,7 +137,7 @@ Curio is brought to life by a dedicated team of engineers and designers: Will Bl
   <span style="color: #5E97F6;">💖</span>
 </h2>
 
-Our journey wouldn't be possible without the dedicated individuals who organized the hackathon and our tenacious team that turned this vision into reality. A massive thank you!
+Our journey wouldn't be possible without the dedicated individuals who organized the hackathon (shoutout Khushi!) and our tenacious team that turned this vision into reality. A massive thank you!
 
 <p align="center">
   <span style="color: #5E97F6;">🎉</span>
