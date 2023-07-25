@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Curio-IRM/.github/blob/main/profile/curio.png" alt="Curio Logo" width="300">
+  <img src="https://github.com/Curio-IRM/.github/blob/main/profile/curio.png" alt="Curio Logo" width="400">
 </p>
 
 <h1 align="center">
