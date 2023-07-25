@@ -1,4 +1,4 @@
-![Curio](https://github.com/Curio-IRM/.github/blob/main/profile/curio.png)
+<img src="https://github.com/Curio-IRM/.github/blob/main/profile/curio.png" alt="Curio" width="200">
 
 <html>
   <h3 align="center">
