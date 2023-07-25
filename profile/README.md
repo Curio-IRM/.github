@@ -5,11 +5,11 @@
 
 <html>
   <h3 align="center">
-  <a href="https://fellows.kleinerperkins.com/">Website</a>
+  <a href="https://fellows.kleinerperkins.com/](https://kp-fellows-documents.vercel.app/">Website</a>
   <span> · </span>
-  <a href="https://fellows.kleinerperkins.com/">Documentation</a>
+  <a href="https://fellows.kleinerperkins.com/](https://www.loom.com/share/7b8b3d11cb074de28de8418348f4c0ac">Presentation</a>
   <span> · </span>
-  <a href="https://fellows.kleinerperkins.com/">Substack</a>
+  <a href="https://www.loom.com/share/143ed397944945c38f69a1a741475d41?sid=a27b6242-2793-45e4-9b8a-a6422e8bbc8a">Demo</a>
   </h3>
 </html>
 
