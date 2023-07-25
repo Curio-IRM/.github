@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <span style="color: #5E97F6;">🚀</span> 
-  Curio: Ushering in the Future of Intelligent Relationship Management
+  Curio: Future of Intelligent Relationship Management
   <span style="color: #5E97F6;">🚀</span>
 </h1>
 
