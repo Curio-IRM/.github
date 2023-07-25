@@ -1,5 +1,3 @@
-<div align="center">
-
 <p align="center">
   <img src="https://github.com/Curio-IRM/.github/blob/main/profile/curio.png" alt="Curio" width="300">
 </p>
