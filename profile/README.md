@@ -140,12 +140,13 @@ Curio is brought to life by a dedicated team of engineers and designers: Will Bl
 Our journey wouldn't be possible without the dedicated individuals who organized the hackathon (shoutout Khushi!) and our tenacious team that turned this vision into reality. A massive thank you!
 
 <p align="center">
+  <img src="https://github.com/Curio-IRM/.github/blob/main/profile/team.png" alt="Curio Team" width="300">
+</p>
+
+<p align="center">
   <span style="color: #5E97F6;">🎉</span>
   Embrace the future. Embrace Curio!
   <span style="color: #5E97F6;">🎉</span>
 </p>
 
-<p align="center">
-  <img src="https://github.com/Curio-IRM/.github/blob/main/profile/team.png" alt="Curio Team" width="300">
-</p>
 
