@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/Curio-IRM/.github/blob/main/profile/curio.png" alt="Curio" width="200">
-  <h1>🚀 Welcome to Curio: The Next Dimension of Relationship Management 🚀</h1>
+  <h1>🚀 Welcome to Curio: The Next Dimension of Relationship Management</h1>
   <a href="https://kp-fellows-documents.vercel.app/"><strong>🌐 Explore the Unknown</strong></a> • 
   <a href="https://www.loom.com/share/7b8b3d11cb074de28de8418348f4c0ac"><strong>🎥 Travel Through Time</strong></a> • 
   <a href="https://www.loom.com/share/143ed397944945c38f69a1a741475d41?sid=a27b6242-2793-45e4-9b8a-a6422e8bbc8a"><strong>🕹️ Experience the Adventure</strong></a>
