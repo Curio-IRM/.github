@@ -78,22 +78,15 @@ Our mission with Curio is to redefine the future of relationship management. We 
 
 <div align="justify">
 
-<a name="use-case"></a>
-<h2 align="center">
-  <span style="color: #5E97F6;">🎯</span>
-  Real-World Use Case: Unleashing Curio's Power on Kleiner Perkins Fellows
-  <span style="color: #5E97F6;">🎯</span>
-</h2>
-
 From a simple CSV file to a full-fledged intelligent database, a responsive website, and an interactive chatbot. This is the transformative journey **Curio** embarked on when given the task of analysing the details of 250 past Kleiner Perkins Fellows. 
 
-**📚 Individualized Profiles 📚**: Curio has auto-generated an individualized profile for each fellow, encompassing their class year, current position, skills, former companies, roles, and more. All of this rich and detailed information is available at your fingertips.
+**📚 Individualized Profiles**: Curio has auto-generated an individualized profile for each fellow, encompassing their class year, current position, skills, former companies, roles, and more. All of this rich and detailed information is available at your fingertips.
 
-**💬 Responsive Chatbot 💬**: Beyond static data, Curio's chatbot interface facilitates interactive queries about each fellow, delivering insightful responses instantly. Curio can provide information about a fellow's status, their current position, and their connection to KP, among other data points.
+**💬 Responsive Chatbot**: Beyond static data, Curio's chatbot interface facilitates interactive queries about each fellow, delivering insightful responses instantly. Curio can provide information about a fellow's status, their current position, and their connection to KP, among other data points.
 
-**🌠 Future-Ready 🌠**: Curio's potential extends to identifying relationships between different fellows and analyzing large data trends. Enhanced updates in the future promise even more powerful insights.
+**🌠 Future-Ready**: Curio's potential extends to identifying relationships between different fellows and analyzing large data trends. Enhanced updates in the future promise even more powerful insights.
 
-**💡 The Power of Curio 💡**: In essence, Curio has shown its power to transform a simple CSV file into a dynamic, interactive, and insightful platform.
+**💡 The Power of Curio**: In essence, Curio has shown its power to transform a simple CSV file into a dynamic, interactive, and insightful platform.
 
 
 <a name="technology"></a>
