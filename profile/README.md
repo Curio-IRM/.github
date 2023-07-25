@@ -98,7 +98,7 @@ From a simple CSV file to a full-fledged intelligent database, a responsive webs
 
 At Curio, we employ a fusion of groundbreaking technologies to deliver a superior user experience that is both intuitive and intelligent. Here's a peek under the hood:
 
-1. **AI and Large Language Models**: We leverage state-of-the-art AI and large language models, such as GPT-3, to give Curio the ability to understand and effectively respond to user queries in natural language. This enables Curio to go beyond simple pattern matching to deep comprehension, making interactions more conversational, intuitive, and user-friendly.
+1. **AI and Large Language Models**: We leverage state-of-the-art AI and large language models, such as GPT-4, to give Curio the ability to understand and effectively respond to user queries in natural language. This enables Curio to go beyond simple pattern matching to deep comprehension, making interactions more conversational, intuitive, and user-friendly.
 
 2. **Vector Database (Pinecone)**: Data is the lifeblood of Curio, and how we manage it is crucial to delivering fast, accurate results. We use Pinecone, a purpose-built vector database, to store high-dimensional vectors that represent complex data entities. This enables efficient similarity search and retrieval of data, which is vital for powering features like our AI-driven chat and recommendation system.
 
