@@ -2,6 +2,8 @@
   <img src="https://github.com/Curio-IRM/.github/blob/main/profile/curio.png" alt="Curio" width="300">
 </p>
 
+<div align="center">
+  
 # **Curio**
 
 🌐 [**Website**](https://kp-fellows-documents.vercel.app/) • 🎥 [**Presentation**](https://www.loom.com/share/7b8b3d11cb074de28de8418348f4c0ac) • 🕹️ [**Demo**](https://www.loom.com/share/143ed397944945c38f69a1a741475d41?sid=a27b6242-2793-45e4-9b8a-a6422e8bbc8a)
